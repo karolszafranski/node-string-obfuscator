@@ -1,0 +1,12 @@
+{
+  "name": "string-obfuscate",
+  "version": "0.0.1",
+  "description": "Obfuscate strings to C arrays",
+  "author": "Karol Szafrański <karolszafranski@gmail.com>",
+  "scripts": {
+    "start": "node obfuscate.js"
+  },
+  "main": "obfuscate.js",
+  "private": true,
+  "license": "MIT"
+}
